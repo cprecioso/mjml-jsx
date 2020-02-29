@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "description": "Use MJML with JSX",
   "keywords": [
-    "mjml",
     "jsx",
-    "react",
-    "mail"
+    "mail",
+    "mjml",
+    "react"
   ],
   "homepage": "https://github.com/cprecioso/mjml-jsx#readme",
   "bugs": {
@@ -18,6 +18,9 @@
   },
   "license": "ISC",
   "author": "Carlos Precioso",
+  "files": [
+    "lib/**/*"
+  ],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "directories": {
