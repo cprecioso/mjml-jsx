@@ -1,0 +1,37 @@
+{
+  "name": "mjml-jsx",
+  "version": "0.0.1",
+  "description": "Use MJML with JSX",
+  "keywords": [
+    "mjml",
+    "jsx",
+    "react",
+    "mail"
+  ],
+  "homepage": "https://github.com/cprecioso/mjml-jsx#readme",
+  "bugs": {
+    "url": "https://github.com/cprecioso/mjml-jsx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cprecioso/mjml-jsx.git"
+  },
+  "license": "ISC",
+  "author": "Carlos Precioso",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "lodash.flatten": "^4.4.0",
+    "mjml": "^4.5.1"
+  },
+  "devDependencies": {
+    "@cprecioso/tsconfig": "^0.0.4",
+    "@types/lodash.flatten": "^4.4.6",
+    "@types/mjml": "^4.0.3",
+    "prettier": "^1.19.1",
+    "typescript": "^3.8.3"
+  }
+}

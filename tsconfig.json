@@ -1,0 +1,10 @@
+{
+  "extends": "@cprecioso/tsconfig/node",
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "declaration": true,
+    "rootDir": "src",
+    "outDir": "lib",
+    "jsx": "react"
+  }
+}
