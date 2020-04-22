@@ -34,7 +34,7 @@
     "@cprecioso/tsconfig": "^0.0.4",
     "@types/lodash.flatten": "^4.4.6",
     "@types/mjml": "^4.0.3",
-    "prettier": "^1.19.1",
+    "prettier": "^2.0.5",
     "typescript": "^3.8.3"
   }
 }
